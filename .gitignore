@@ -37,7 +37,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
-
+config.py
 # Unit test / coverage reports
 htmlcov/
 .tox/
@@ -128,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+PyAudio-0.2.11-cp310-cp310-win_amd64.whl
+PyAudio-0.2.11-cp38-cp38-win_amd64.whl
